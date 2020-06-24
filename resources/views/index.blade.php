@@ -8,8 +8,8 @@
   <hr class="my-4">
   <p>É um sistema simples de simulação de mercado e vendas.</p>
   <p class="lead">
-    <a class="btn btn-primary btn-lg" href="/projetouesc/public/produto" role="button">Listar Produtos</a>
-    <a class="btn btn-primary btn-lg" href="/projetouesc/public/vendas" role="button">Listar Vendas</a>
+    <a class="btn btn-primary btn-lg" href="produto" role="button">Listar Produtos</a>
+    <a class="btn btn-primary btn-lg" href="vendas" role="button">Listar Vendas</a>
   </p>
 </div>
 @endsection
